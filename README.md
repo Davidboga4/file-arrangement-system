@@ -12,6 +12,6 @@ Make sure that python file (file_system.py) location and command prompt running 
 David Boga.<br>
 gmail: spoter49@gmail.com
 
-If any isssues with this application please inform me.
-Thank you.
+If any isssues with this application please inform me.<br>
+Thank you.<br>
 Have a nice day.
